@@ -1,9 +1,10 @@
-# TGTG notifications
-[![CodeQL](https://github.com/LauPaSat-pl/TGTG_notifications/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/LauPaSat-pl/TGTG_notifications/actions/workflows/github-code-scanning/codeql)
+# TG³
+### A fork of [TGTG notifications](https://github.com/LauPaSat-pl/TGTG_notifications) by [LauPaSat-pl](https://github.com/LauPaSat-pl)
+[![CodeQL](https://github.com/LucasPlacentino/TG3/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/LucasPlacentino/TG3/actions/workflows/github-code-scanning/codeql)
 
-[![tgtg notifications](https://github.com/LauPaSat-pl/TGTG_notifications/actions/workflows/notitications.yml/badge.svg)](https://github.com/LauPaSat-pl/TGTG_notifications/actions/workflows/notitications.yml)
-[![tgtg notifications](https://github.com/LauPaSat-pl/TGTG_notifications/actions/workflows/notitications2.yml/badge.svg)](https://github.com/LauPaSat-pl/TGTG_notifications/actions/workflows/notitications2.yml)
-[![tgtg notifications](https://github.com/LauPaSat-pl/TGTG_notifications/actions/workflows/notitications3.yml/badge.svg)](https://github.com/LauPaSat-pl/TGTG_notifications/actions/workflows/notitications3.yml)
+[![tgtg notifications](https://github.com/LucasPlacentino/TG3/actions/workflows/notitications.yml/badge.svg)](https://github.com/LauPaSat-pl/TGTG_notifications/actions/workflows/notitications.yml)
+[![tgtg notifications](https://github.com/LucasPlacentino/TG3/actions/workflows/notitications2.yml/badge.svg)](https://github.com/LauPaSat-pl/TGTG_notifications/actions/workflows/notitications2.yml)
+[![tgtg notifications](https://github.com/LucasPlacentino/TG3/actions/workflows/notitications3.yml/badge.svg)](https://github.com/LauPaSat-pl/TGTG_notifications/actions/workflows/notitications3.yml)
 
 Program run 100% on Github actions (not counting the set up), to check for your favourite TGTG bags
 ## How to use

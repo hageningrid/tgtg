@@ -13,12 +13,12 @@ async def main() -> None:
 	"""
 	Main function of the script
 	"""
-	access_token: str = os.environ['ACCESS_TOKEN']
-	refresh_token: str = os.environ["REFRESH_TOKEN"]
-	tgtg_user_id: str = os.environ['TGTG_USER_ID']
-	cookie: str = os.environ['COOKIE']
-	telegram_bot_id: str = os.environ['TG_BOT_ID']
-	telegram_chat_id: str = os.environ['TG_CHAT_ID']
+	access_token: str = os.environ['eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTU4ODQ4NzUsImlhdCI6MTcxNTcxMjA3NSwiaXNzIjoidGd0Z19zb3RlcmlhIiwidCI6IkJpcjIxeFZqU3hTclcwUEpBTC02OXc6MDoxIiwic3ViIjoiMzUzNDI3NiJ9.LVer7aXTfZmN701RTl7tdyyT4tW821pdixhic6ymIMQ']
+	refresh_token: str = os.environ["eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDcyNDgwNzUsImlhdCI6MTcxNTcxMjA3NSwiaXNzIjoidGd0Z19zb3RlcmlhIiwidCI6IkxwZWFsckhFUmVPbmhBaU1kRnlqZWc6MDowIiwic3ViIjoiMzUzNDI3NiJ9.BtcQ5je0DytPcUPaE9hO8uocgTUIyqYfh2ej1u_HYpM"]
+	tgtg_user_id: str = os.environ['3534276']
+	cookie: str = os.environ['datadome=e_pWyT6E4iSTAzotxRGBR0G9~0oBodrAmV0tcoY~w_la3uBIk9MnDBDjg6CVGxdJ75HXlGAxTsdz0sfFnIiLA9GUUd5GH9Ik8k6dm2VebZzdppQYzzJdnEher9WQpLt5; Max-Age=5184000; Domain=.apptoogoodtogo.com; Path=/; Secure; SameSite=Lax']
+	telegram_bot_id: str = os.environ['7135531971']
+	telegram_chat_id: str = os.environ['7038358942']
 	tgtg_client: TgtgClient = TgtgClient(access_token=access_token,
 	                                     refresh_token=refresh_token,
 	                                     user_id=tgtg_user_id,
